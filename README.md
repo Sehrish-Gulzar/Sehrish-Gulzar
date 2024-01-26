@@ -1,4 +1,4 @@
-![logo](https://github.com/Sehrish-Gulzar/Sehrish-Gulzar/blob/main/Sehrish%20gulzar.png)
+![logo]([https://github.com/Sehrish-Gulzar/Sehrish-Gulzar/blob/main/Sehrish%20gulzar.png](https://github.com/Sehrish-Gulzar/Sehrish-Gulzar/blob/main/Sehrish%20gulzar%20banner.png))
 <h1 align="center">Hi 👋, I'm Sehrish Gulzar</h1>
 <h3 align="center">A passionate Flutter Mobile App Developer</h3>
 
